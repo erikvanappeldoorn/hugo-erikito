@@ -1,6 +1,6 @@
 ---
-title: "¡Hola, soy Erik!"
+title: "¡Hola, soy Erikito!"
 headless: true
 ---
 
-I am Erik van Appeldoorn, let me introduce you
+I am Erik van Appeldoorn, welcome to my blog.
