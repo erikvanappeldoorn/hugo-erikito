@@ -48,10 +48,10 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
   description = "Nice theme for homepages and blogs"
@@ -75,7 +75,7 @@ disableHugoGeneratorInject = false
   justifyContent = false  # Set "text-align: justify" to .content.
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
