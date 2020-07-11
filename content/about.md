@@ -6,7 +6,7 @@ aliases = ["about-us","contact"]
   name = "Erik van Appeldoorn"
 +++
 
-I am a communicative software engineer, team-lead and trainer. Living in the Netherlands with my family.
+I am a communicative software engineer, team-lead and trainer. I am living with my family in the Netherlands.
 
 Next to coding I love sharing my experiences by teaching instructor-led courses, coaching developers and speaking at international tech. conferences.
 
