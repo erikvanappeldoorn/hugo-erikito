@@ -54,9 +54,9 @@ disableHugoGeneratorInject = false
   dateformNumTime = "02-01-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Erikito site"
   keywords = ""
-  images = [""]
+  images = ["/img/site-cover.jpg"]
 
   homeSubtitle = "Stories from the trenches of a professional software developer. Welcome to my blog!"
 
