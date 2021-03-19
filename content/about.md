@@ -18,4 +18,4 @@ As a Microsoft Certified Trainer and Microsoft Certified Azure Developer Associa
 * Azure Cloud Solutions
 * CI/CD
 * DevOps
-* Modern front-end technologies (Angular)
+* Modern front-end technologies
